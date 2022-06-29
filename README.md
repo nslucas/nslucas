@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como desenvolvedor back-end 
-- 🌱 Estudando para me tornar um desenvolvedor full stack 
+- 🌱 Estudando algumas tecnologias como HTML, CSS, JavaScript com o objetivo de me tornar um desenvolvedor full stack.
 
 <div align="center">
   <a href="https://github.com/nslucas">
