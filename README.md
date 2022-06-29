@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho como desenvolvedor back-end 
-- 🌱 Estudando PHP
+- 🌱 Estudando para me tornar um desenvolvedor full stack 
 
 <div align="center">
   <a href="https://github.com/nslucas">
