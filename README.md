@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Lucas Nunes
 
-
-- 🔭 Hoje trabalho como desenvolvedor back-end nas stacks: C#, .NET, PHP e PL/SQL.
-- 🌱 Atualmente estou estudando Java, HTML, CSS, JS e React com o objetivo de me tornar um desenvolvedor full stack.
+- 🎂 23 anos
+- 🔭 Hoje trabalho como desenvolvedor back-end nas stacks: C#, .NET, PHP e PL/SQL
+- 🌱 Atualmente estou estudando Java, HTML, CSS, JS e React com o objetivo de me tornar um desenvolvedor full stack
 
 <div align="center">
   <a href="https://github.com/nslucas">
