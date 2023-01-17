@@ -5,11 +5,6 @@
 - 🔭 Hoje trabalho como desenvolvedor back-end nas stacks: C#, .NET, PHP e PL/SQL
 - 🌱 Atualmente estou estudando Java, HTML, CSS, JS e React com o objetivo de me tornar um desenvolvedor full stack
 
-<div align="center">
-  <a href="https://github.com/nslucas">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nslucas&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nslucas&layout=compact&langs_count=7&theme=nord"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whit">
