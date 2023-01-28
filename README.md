@@ -3,7 +3,7 @@
 - 🎂 23 anos
 - 🖥️ Cursando Análise e Desenvolvimento de Sistemas
 - 🔭 Hoje trabalho como desenvolvedor back-end utilizando as linguagens: .NET, PHP e PL/SQL
-- 🌱 Atualmente estou estudando Java, HTML, CSS, JS e React com o objetivo de me tornar um desenvolvedor full stack
+- 🌱 Atualmente estou estudando Java, e possuo o objetivo de me tornar um desenvolvedor full stack
 
 
 <div style="display: inline_block"><br>
