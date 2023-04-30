@@ -9,7 +9,7 @@
 
 ## My name is Lucas Nunes
 (Java | Spring | PHP | Laravel | C# | .NET | SQL ) 🚀
-- Software Enginner @[Agoratech](https://www.agoracred.com.br/)
+- Software Developer @[Agoratech](https://www.agoracred.com.br/)
 - System Analysis and Development student
 - Passionate about web development
 - I am currently learning Java and my main goal is to become a full-stack developer.
