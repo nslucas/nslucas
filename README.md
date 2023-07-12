@@ -7,7 +7,7 @@
 <img align="right" alt="Coder Boy image" src="./coderBoy.jpg"  width="300px"/>
 
 ## My name is Lucas Nunes
-(Java | Spring | PHP | Laravel | C# | .NET | SQL ) 🚀
+Java | Spring | PHP | Laravel | C# | .NET | SQL  🚀
 - Software Developer @[Agoratech](https://www.agoracred.com.br/)
 - System Analysis and Development student
 - Passionate about web development
