@@ -4,8 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasnunessantos/)](https://www.linkedin.com/in/lucasnunessantos/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasn.nunes077@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasn.nunes077@hotmail.com)](mailto:lucasn.nunes077@hotmail.com)
 
-<img align="right" alt="Coder Boy image" src="./coderBoy.jpg"  width="300px"/>
-
 ## My name is Lucas Nunes
 Java | Spring | PHP | Laravel | C# | .NET | SQL  🚀
 - Software Developer @[Agoratech](https://www.agoracred.com.br/)
