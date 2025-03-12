@@ -9,7 +9,7 @@ Java | Spring | C# | .NET | SQL  🚀
 - Software Developer @[Agoratech](https://www.agoracred.com.br/)
 - Graduated in System Analysis and Development 
 - Passionate about programming
-- I am currently learning Java and my main goal is to become a full-stack developer.
+- I am currently deep diving into Spring and .NET ecosystems and my main goal is to become a full-stack developer.
 - Always thirst for learning, knowledge and experience
 
 <div style="display: inline_block"><br>
