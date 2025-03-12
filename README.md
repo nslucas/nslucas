@@ -7,7 +7,7 @@
 ## My name is Lucas Nunes
 Java | Spring | C# | .NET | SQL  🚀
 - Software Developer @[Agoratech](https://www.agoracred.com.br/)
-- Graduated in System Analysis and Development 
+- Graduated in System Analysis and Development at [UVV](https://uvv.br)
 - Passionate about programming
 - I am currently deep diving into Spring and .NET ecosystems and my main goal is to become a full-stack developer.
 - Always thirst for learning, knowledge and experience
