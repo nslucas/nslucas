@@ -21,6 +21,6 @@ Currently, I am deepening my expertise in the **.NET ecosystem** with the goal o
 
 ## Get in Touch
 
-- 📧 lucasn.nunes066@gmail.com
+- lucasn.nunes066@gmail.com
 - [LinkedIn - Português](https://www.linkedin.com/in/lucasnunessantos/?locale=pt-BR)  
 - [LinkedIn - English](https://www.linkedin.com/in/lucasnunessantos/?locale=en_US)  
